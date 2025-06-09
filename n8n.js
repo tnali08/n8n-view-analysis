@@ -166,4 +166,4 @@ async function main(){
 main();
 
 
-authour: Tejaswi
+author: Tejaswi
